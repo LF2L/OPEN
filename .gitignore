@@ -3,3 +3,9 @@ __pycache__/
 *$py.class
 **/_build/
 Results/
+
+# virtual environment data
+**/bin
+**/lib
+**/lib64
+**/share
