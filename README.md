@@ -14,6 +14,8 @@ The objective of this fork is to use the OPEN toolset to simulate advanced P2P e
 
 The full OPEN documentation can be found [here](https://open-platform-for-energy-networks.readthedocs.io).
 
+A talk is avaialbe about the OPEN toolkit: [Youtube](https://www.youtube.com/watch?v=NCUHaa_z2v4)
+
 ## Installation
 
 ### Virutal Environment procedure (tested with Python 3.8)
