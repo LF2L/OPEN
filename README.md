@@ -68,7 +68,7 @@ The case study is based on scenario using 3 houses
 
 ### P2P energy sharing contribution
 * Alex Gabriel
-* TELECOM Nancy's IAMD students
+* [TELECOM Nancy's IAMD](http://iamd-mom.telecomnancy.univ-lorraine.fr/) students
   * Rima Oulhaj
   * ...
 
